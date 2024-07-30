@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ishkov2709/dps/static/css/main.3b7cab72.css",
-    "main.js": "/ishkov2709/dps/static/js/main.d20be7e7.js",
-    "static/media/Inter-Regular.ttf": "/ishkov2709/dps/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
-    "static/media/bg_tab_desk.jpg": "/ishkov2709/dps/static/media/bg_tab_desk.a4339e0305eb7613b3cd.jpg",
-    "static/media/bg_mob.jpg": "/ishkov2709/dps/static/media/bg_mob.dd290a5dbcb491a8a885.jpg",
-    "index.html": "/ishkov2709/dps/index.html",
-    "main.3b7cab72.css.map": "/ishkov2709/dps/static/css/main.3b7cab72.css.map",
-    "main.d20be7e7.js.map": "/ishkov2709/dps/static/js/main.d20be7e7.js.map"
+    "main.css": "/ishkov2709.github.io/dps/static/css/main.d843f397.css",
+    "main.js": "/ishkov2709.github.io/dps/static/js/main.fc0fe0ee.js",
+    "static/media/Inter-Regular.ttf": "/ishkov2709.github.io/dps/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/bg_tab_desk.jpg": "/ishkov2709.github.io/dps/static/media/bg_tab_desk.a4339e0305eb7613b3cd.jpg",
+    "static/media/bg_mob.jpg": "/ishkov2709.github.io/dps/static/media/bg_mob.dd290a5dbcb491a8a885.jpg",
+    "index.html": "/ishkov2709.github.io/dps/index.html",
+    "main.d843f397.css.map": "/ishkov2709.github.io/dps/static/css/main.d843f397.css.map",
+    "main.fc0fe0ee.js.map": "/ishkov2709.github.io/dps/static/js/main.fc0fe0ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b7cab72.css",
-    "static/js/main.d20be7e7.js"
+    "static/css/main.d843f397.css",
+    "static/js/main.fc0fe0ee.js"
   ]
 }
