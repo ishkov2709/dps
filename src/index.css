@@ -23,7 +23,6 @@ li {
 }
 
 body {
-  margin: 0;
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -42,7 +41,7 @@ code {
   min-width: 100%;
   min-height: 100%;
 
-  background-image: url('/public/img/bg_mob_1x.jpg');
+  background-image: url('/public/img/bg_mob.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -59,4 +58,20 @@ code {
   height: 100%;
 
   background-color: #000000cc;
+}
+
+@media screen and (min-width: 768px) {
+  .app {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    min-width: 100%;
+    min-height: 100%;
+
+    background-image: url('/public/img/bg_tab_desk.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
 }
